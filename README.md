@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rynnoo
-- 👀 I’m interested in financial analysis
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on any python related discounted cash flow analysis
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning SQL, Python and R programming.
+- 💞️ I’m looking to collaborate on any Python or R related statistical modeling projects.
 - 📫 How to reach me: summers.ryanc@gmail.com
 
 <!---
