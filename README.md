@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rynnoo
+- 👋 Hi, I’m @rysummers
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL, Python and R programming.
 - 💞️ I’m looking to collaborate on any Python or R related statistical modeling projects.
