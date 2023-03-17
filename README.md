@@ -31,5 +31,5 @@ R Project (https://github.com/rysummers/titanic) <br />
 
 ## Contact
 
-If you'd like to get in touch with me, feel free to reach out via 
+If you'd like to get in touch with me, feel free to reach out via <br />
 LinkedIn: https://www.linkedin.com/in/ryan-summers-32b096b0/
