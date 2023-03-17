@@ -19,6 +19,7 @@ Whether you are a potential employer, collaborator, or simply someone interested
 * Predictive Modeling
 * Business Communication
 * SQL: MSSQL, T-SQL, Relational Models
+* Linux: proficient in using Linux as my primary OS for daily use and data-analysis.
 
 ## Projects
 
