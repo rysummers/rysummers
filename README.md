@@ -28,6 +28,7 @@ Here are some of the data science projects I've worked on:
 SQL Project (https://github.com/rysummers/SQL_Project) <br />
 Python Project https://github.com/rysummers/Fundamentals) <br />
 R Project (https://github.com/rysummers/titanic) <br />
+Stats/R Project (https://github.com/rysummers/School_Vaccination_Rates) <br />
 
 ## Contact
 
