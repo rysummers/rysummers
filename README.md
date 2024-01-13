@@ -12,6 +12,7 @@ I am actively seeking new data science opportunities in the medical research fie
 
 * Python
 * R
+* SAS
 * Statistical Analysis
 * Data Munging
 * Predictive Modeling
