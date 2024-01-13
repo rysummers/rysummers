@@ -1,14 +1,12 @@
 ## Introduction
 
-Hello! My name is Ryan Summers and I am a data science enthusiast with a career background in finance. I have a strong passion for using statistical analysis, machine learning, and data visualization to derive insights and solve real-world problems.
+Hello! My name is Ryan Summers and I am an aspiring data scientist with a passion for analyzing complex datasets to uncover insights that can improve patient outcomes. Although I began my career in finance, I was drawn to the world of data science and pursuing a career in medical research. I have a strong passion for using statistical analysis, machine learning, and data visualization to derive insights and solve real-world problems.
 
-My journey into the world of data science began in accounting, where I was initially drawn to the analytical nature of the field. However, as I gained more experience, I realized my true passion lay in exploring data and applying statistical analysis to uncover patterns and trends. I began taking courses on platforms like Coursera and Udemy, and soon discovered that I had a natural aptitude for programming and statistics.
+Most recently, I have worked as a statistical consultant on a retrospective population-based observational study focused on pediatric orbital cellulitis in Colorado. In this role, I conducted exploratory data analysis, determined appropriate statistical tests, and applied techniques like ANCOVA and cumulative incidence rates to describe characteristics of the sample population. This experience solidified my desire to transition into medical research.
 
-Since then, I have pursued advanced degrees in both Data Science and Statistics from Syracuse University and Penn State, respectively. Along the way, I have worked on a range of projects and built meaningful relationships that have allowed me to further hone my data analysis skills.
+I possess skills in statistical programming languages like R and SAS, which I leverage to execute advanced analytic techniques. My goal is to continue collaborating on impactful medical research studies where I can utilize my statistical knowledge and programming abilities to derive meaningful insights from complex data. Please view my project portfolio to learn more about my background.
 
-Throughout my career, I have gained extensive experience working with large amounts of financial data and communicating complex business problems and solutions to stakeholders. I am a dedicated and passionate professional who is committed to solving problems and continuously learning and growing.
-
-Whether you are a potential employer, collaborator, or simply someone interested in learning more about me, I hope this page has provided you with a better understanding of my background and interests. Thank you for taking the time to read my "About Me" page!
+I am actively seeking new data science opportunities in the medical research field where I can apply my analytical capabilities to make a difference in people's lives. I welcome any feedback or suggestions on additional skills I should develop as I continue on this career path.
 
 ## Skills
 
