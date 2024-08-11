@@ -16,7 +16,7 @@ I am actively seeking new biostatistics or data science opportunities in the med
 * Statistical Analysis
 * Data Munging
 * Predictive Modeling
-* Business Communication
+* Machine Learning
 * SQL: MSSQL, T-SQL, Relational Models
 * Linux: proficient in using Linux as my primary OS for daily use and data-analysis.
 
