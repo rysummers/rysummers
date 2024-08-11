@@ -1,12 +1,12 @@
 ## Introduction
 
-Hello! My name is Ryan Summers and I am an aspiring data scientist with a passion for analyzing complex datasets to uncover insights that can improve patient outcomes. Although I began my career in finance, I was drawn to the world of data science and pursuing a career in medical research. I have a strong passion for using statistical analysis, machine learning, and data visualization to derive insights and solve real-world problems.
+Hello! My name is Ryan Summers and I am an aspiring biostatistican and data scientist with a passion for analyzing complex datasets to uncover insights that can improve patient outcomes. Although I began my career in finance, I was drawn to the world of statistics and pursuing a career in medical research. I have a strong passion for using statistical analysis, machine learning, and data visualization to address real-world challenges and drive meaningful change in evidence-based healthcare decisions.
 
 Most recently, I have worked as a statistical consultant on a retrospective population-based observational study focused on pediatric orbital cellulitis in Colorado. In this role, I conducted exploratory data analysis, determined appropriate statistical tests, and applied techniques like ANCOVA and cumulative incidence rates to describe characteristics of the sample population. This experience solidified my desire to transition into medical research.
 
 I possess skills in statistical programming languages like R and SAS, which I leverage to execute advanced analytic techniques. My goal is to continue collaborating on impactful medical research studies where I can utilize my statistical knowledge and programming abilities to derive meaningful insights from complex data. Please view my project portfolio to learn more about my background.
 
-I am actively seeking new data science opportunities in the medical research field where I can apply my analytical capabilities to make a difference in people's lives. I welcome any feedback or suggestions on additional skills I should develop as I continue on this career path.
+I am actively seeking new biostatistics or data science opportunities in the medical research field where I can apply my analytical capabilities to make a difference in people's lives. I welcome any feedback or suggestions on additional skills I should develop as I continue on this career path.
 
 ## Skills
 
