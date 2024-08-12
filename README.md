@@ -24,10 +24,10 @@ I am actively seeking new biostatistics or data science opportunities in the med
 
 Here are some of the data science projects I've worked on:
 
-Python Project (Orbital Cellulitis Detection) (https://github.com/rysummers/OC-Detection) <br />
-R Project (Independent Medical Review) (https://github.com/rysummers/IMR_Analysis) <br />
-Stats/R Project (School Vaccination Rates) (https://github.com/rysummers/School_Vaccination_Rates) <br />
-SQL Project (Baseball Cards Database) (https://github.com/rysummers/SQL_Project) <br />
+Orbital Cellulitis Detection (Python) (https://github.com/rysummers/OC-Detection) <br />
+Independent Medical Review Analysis (R) (https://github.com/rysummers/IMR_Analysis) <br />
+California School Vaccination Rates (R) (https://github.com/rysummers/School_Vaccination_Rates) <br />
+Database Design & Implementation (MSSQL) (https://github.com/rysummers/SQL_Project) <br />
 
 ## Contact
 
