@@ -22,7 +22,7 @@ I am actively seeking new biostatistics or data science opportunities in the med
 
 ## Projects
 
-Here are some of the data science projects I've worked on:
+Here are some projects I've worked on:
 
 [Orbital Cellulitis Detection](https://github.com/rysummers/OC-Detection) (Python) <br />
 [Independent Medical Review Analysis](https://github.com/rysummers/IMR_Analysis) (R) <br />
