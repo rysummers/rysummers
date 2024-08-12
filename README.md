@@ -6,7 +6,7 @@ Most recently, I have worked as a statistical consultant on a retrospective popu
 
 I possess skills in statistical programming languages like R and SAS, which I leverage to execute advanced analytic techniques. My goal is to continue collaborating on impactful medical research studies where I can utilize my statistical knowledge and programming abilities to derive meaningful insights from complex data. Please view my project portfolio to learn more about my background.
 
-I am actively seeking new biostatistics or data science opportunities in the medical research field where I can apply my analytical capabilities to make a difference in people's lives. I welcome any feedback or suggestions on additional skills I should develop as I continue on this career path.
+I am actively seeking new biostatistics or data science opportunities in the medical research field where I can leverage my analytical skills to support impactful research. I welcome any feedback or suggestions on additional skills I should develop as I continue on this career path.
 
 ## Skills
 
