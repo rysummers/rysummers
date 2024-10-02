@@ -1,6 +1,6 @@
 ## Introduction
 
-👋 Hi there! I'm Ryan, a finance-turned-biostatistician with a burning passion for leveraging data to improve healthcare outcomes and public policy. My journey has taken me from crunching numbers in the financial world to uncovering insights that can make a real difference in patients' lives.
+👋 Hi there! I'm Ryan, a finance-turned-biostatistician with a burning passion for leveraging data to improve healthcare outcomes and public policy. My journey has taken me from crunching numbers in the financial world to uncovering insights that are more meaningful and impactual to a greater number of people (other than people with deep pockets).
 
 ## My Path
 
