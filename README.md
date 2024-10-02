@@ -10,7 +10,7 @@
 
 ## What I Bring to the Table
 
-💻 Tech Stack: I'm proficient in R and SAS, using these tools to wrangle data and apply advanced analytical techniques.
+💻 Tech Stack: I'm proficient in R, SAS and Python, using these tools to wrangle data and apply advanced analytical techniques.
 
 📊 Skills: My toolkit includes exploratory data analysis, statistical testing, and data visualization. I'm also diving into the world of machine learning to expand my capabilities.
 
