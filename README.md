@@ -1,12 +1,32 @@
 ## Introduction
 
-Hello! My name is Ryan Summers and I am an aspiring biostatistican and data scientist with a passion for analyzing complex datasets to uncover insights that can improve patient outcomes. Although I began my career in finance, I was drawn to the world of statistics and pursuing a career in medical research. I have a strong passion for using statistical analysis, machine learning, and data visualization to address real-world challenges and drive meaningful change in evidence-based healthcare decisions.
+👋 Hi there! I'm Ryan, a finance-turned-biostatistician with a burning passion for leveraging data to improve healthcare outcomes and public policy. My journey has taken me from crunching numbers in the financial world to uncovering insights that can make a real difference in patients' lives.
 
-Most recently, I have worked as a statistical consultant on a retrospective population-based observational study focused on pediatric orbital cellulitis in Colorado. In this role, I conducted exploratory data analysis, determined appropriate statistical tests, and applied techniques like ANCOVA and standardized incidence rates to describe characteristics of the sample population. This experience solidified my desire to transition into medical research.
+## My Path
 
-I possess skills in statistical programming languages like R and SAS, which I leverage to execute advanced analytic techniques. My goal is to continue collaborating on impactful medical research studies where I can utilize my statistical knowledge and programming abilities to derive meaningful insights from complex data. Please view my project portfolio to learn more about my background.
+🔄 Career Pivot: I made the leap from finance to biostatistics, driven by a desire to apply my analytical skills to meaningful medical research.
 
-I am actively seeking new biostatistics or data science opportunities in the medical research field where I can leverage my analytical skills to support impactful research. I welcome any feedback or suggestions on additional skills I should develop as I continue on this career path.
+🏥 Recent Project: I've just wrapped up work as a statistical consultant on a fascinating retrospective study on pediatric orbital cellulitis in Colorado. This project allowed me to flex my statistical muscles, applying techniques like ANCOVA, Poisson Regression, and calculating standardized incidence rates to paint a clear picture of the population affected by this disease.
+
+## What I Bring to the Table
+
+💻 Tech Stack: I'm proficient in R and SAS, using these tools to wrangle data and apply advanced analytical techniques.
+
+📊 Skills: My toolkit includes exploratory data analysis, statistical testing, and data visualization. I'm also diving into the world of machine learning to expand my capabilities.
+
+🧠 Approach: I believe in the power of evidence-based healthcare decisions and strive to provide insights that can drive meaningful change.
+
+## What I'm Looking For
+
+🔍 I'm on the hunt for exciting opportunities in biostatistics or data science within the medical research field. If you have a project that needs someone to turn complex data into actionable insights, I'd love to chat!
+
+## Let's Connect!
+
+🤝 I'm always eager to learn and grow. If you have suggestions on skills I should add to my repertoire or if you'd like to collaborate, please reach out!
+
+📂 Don't forget to check out my project portfolio below to see some of my work in action.
+
+Together, let's push the boundaries of what's possible in healthcare through the power of data! 🩺📊🚀
 
 ## Skills
 
