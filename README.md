@@ -1,12 +1,12 @@
 ## Introduction
 
-👋 Hi there! I'm Ryan, a finance-turned-biostatistician with a burning passion for leveraging data to improve healthcare outcomes and public policy. My journey has taken me from crunching numbers in the financial world to uncovering insights that are more meaningful and impactual to a greater number of people (other than people with deep pockets).
+👋 Hi there! I'm Ryan, a finance-turned-biostatistician focused on improving how we use and apply statistical methods in public health and medicine. My journey has evolved from analyzing financial data to focusing on the proper use and application of advanced statistical methods in publich health and medicine.
 
 ## My Path
 
 🔄 Career Pivot: I made the leap from finance to biostatistics, driven by a desire to apply my analytical skills to meaningful medical research.
 
-🏥 Recent Project: I've just wrapped up work as a statistical consultant on a fascinating retrospective study on pediatric orbital cellulitis in Colorado. This project allowed me to flex my statistical muscles, applying techniques like ANCOVA, Poisson Regression, and calculating standardized incidence rates to paint a clear picture of the population affected by this disease.
+🏥 Recent Project: I've just wrapped up work as a statistical consultant on a retrospective study on pediatric orbital cellulitis in Colorado. This project allowed me to apply techniques like ANCOVA, Poisson Regression, and calculating standardized incidence rates to paint a clear picture of the population affected by this disease.
 
 ## What I Bring to the Table
 
@@ -18,15 +18,13 @@
 
 ## What I'm Looking For
 
-🔍 I'm on the hunt for exciting opportunities in biostatistics or data science within the medical research field. If you have a project that needs someone to turn complex data into actionable insights, I'd love to chat!
+🔍 I'm on the hunt for exciting opportunities in biostatistics or data science within the medical research field. 
 
 ## Let's Connect!
 
 🤝 I'm always eager to learn and grow. If you have suggestions on skills I should add to my repertoire or if you'd like to collaborate, please reach out!
 
 📂 Don't forget to check out my project portfolio below to see some of my work in action.
-
-Together, let's push the boundaries of what's possible in healthcare through the power of data! 🩺📊🚀
 
 ## Skills
 
