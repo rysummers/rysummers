@@ -42,10 +42,11 @@
 
 Here are some projects I've worked on:
 
+[Bayesian Approach to Modeling Melanocytic Nevus Development in Colorado](https://github.com/rysummers/Bayesian_Nevus_Development) (R) <br />
 [Orbital Cellulitis Detection](https://github.com/rysummers/OC-Detection) (Python) <br />
 [Independent Medical Review Analysis](https://github.com/rysummers/IMR_Analysis) (R) <br />
 [California School Vaccination Rates](https://github.com/rysummers/School_Vaccination_Rates) (R) <br />
-[Database Design & Implementation](https://github.com/rysummers/SQL_Project) (MSSQL) <br />
+
 
 
 ## Contact
