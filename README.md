@@ -35,7 +35,6 @@
 * Data Munging
 * Predictive Modeling
 * Machine Learning
-* SQL: MSSQL, T-SQL, Relational Models
 * Linux: proficient in using Linux as my primary OS for daily use and data-analysis.
 
 ## Projects
