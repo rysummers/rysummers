@@ -6,7 +6,7 @@
 
 🔄 Career Pivot: I made the leap from finance to biostatistics, driven by a desire to apply my analytical skills to meaningful medical research.
 
-🏥 Recent Project: I've just wrapped up work as a statistical consultant on a retrospective study on pediatric orbital cellulitis in Colorado. This project allowed me to apply techniques like ANCOVA, Poisson Regression, and calculating standardized incidence rates to paint a clear picture of the population affected by this disease.
+🏥 Recent Project: I've just wrapped up work as a statistical consultant on a retrospective study on pediatric orbital cellulitis in Colorado. This project allowed me to apply techniques like generalized linear mixed models (GzLMM) and calculating standardized incidence rates to paint a clear picture of the population affected by this disease.
 
 ## What I Bring to the Table
 
