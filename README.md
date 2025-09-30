@@ -1,30 +1,28 @@
 ## Introduction
 
-👋 Hi there! I'm Ryan, a finance-turned-biostatistician focused on improving how we use and apply statistical methods in public health and medicine. My journey has evolved from analyzing financial data to focusing on the proper use and application of advanced statistical methods in publich health and medicine.
+Hi there! I'm Ryan, a finance-turned-biostatistician passionate about improving how statistical methods are applied in public health and medicine. My journey began with analyzing financial data and has since evolved into ensuring the proper use of advanced statistical techniques in medical research.
 
 ## My Path
 
-🔄 Career Pivot: I made the leap from finance to biostatistics, driven by a desire to apply my analytical skills to meaningful medical research.
+Career Pivot: I made the leap from finance to biostatistics, driven by a desire to apply my analytical skills to meaningful medical research.
 
-🏥 Recent Project: I've just wrapped up work as a statistical consultant on a retrospective study on pediatric orbital cellulitis in Colorado. This project allowed me to apply techniques like generalized linear mixed models (GzLMM) and calculating standardized incidence rates to paint a clear picture of the population affected by this disease.
+Recent Project: Most recently, I worked as a statistical consultant on a retrospective study of pediatric orbital cellulitis in Colorado. This project involved applying methods such as generalized linear mixed models (GzLMM) and calculating standardized incidence rates to provide a clear picture of the affected population.
 
 ## What I Bring to the Table
 
-💻 Tech Stack: I'm proficient in R, SAS and Python, using these tools to wrangle data and apply advanced analytical techniques.
+Tech Stack: Proficient in R, SAS, and Python for data wrangling and advanced analysis.
 
-📊 Skills: My toolkit includes exploratory data analysis, statistical testing, and data visualization. I'm also diving into the world of machine learning to expand my capabilities.
+Skills: Experienced in exploratory data analysis, statistical testing, and data visualization. Currently expanding into machine learning to broaden my toolkit.
 
-🧠 Approach: I believe in the power of evidence-based healthcare decisions and strive to provide insights that can drive meaningful change.
+Approach: I believe in evidence-based healthcare decision-making and strive to provide insights that drive meaningful change.
 
 ## What I'm Looking For
 
-🔍 I'm on the hunt for exciting opportunities in biostatistics or data science within the medical research field. 
+I'm seeking opportunities in biostatistics and data science, particularly those focused on advancing genetic research.
 
 ## Let's Connect!
 
-🤝 I'm always eager to learn and grow. If you have suggestions on skills I should add to my repertoire or if you'd like to collaborate, please reach out!
-
-📂 Don't forget to check out my project portfolio below to see some of my work in action.
+I'm always eager to learn and grow. If you have suggestions on skills I should add to my repertoire or if you'd like to collaborate, please reach out!
 
 ## Skills
 
