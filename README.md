@@ -41,12 +41,10 @@
 
 Here are some projects I've worked on:
 
-[Simulation Study on Poisson Regression: Type I and Type II Error Rates](https://github.com/rysummers/Poisson_Simulation_Study) (R) <br />
-[Bayesian Approach to Modeling Melanocytic Nevus Development in Colorado](https://github.com/rysummers/Bayesian_Nevus_Development) (R) <br />
 [Detection of Orbital Cellulitis Using a VGG16-Based Convolutional Neural Network](https://github.com/rysummers/OC-Detection) (Python) <br />
 [Independent Medical Review Analysis](https://github.com/rysummers/IMR_Analysis) (R) <br />
-[California School Vaccination Rates](https://github.com/rysummers/School_Vaccination_Rates) (R) <br />
-
+[Simulation Study on Poisson Regression: Type I and Type II Error Rates](https://github.com/rysummers/Poisson_Simulation_Study) (R) <br />
+[Bayesian Approach to Modeling Melanocytic Nevus Development in Colorado](https://github.com/rysummers/Bayesian_Nevus_Development) (R) <br />
 
 
 ## Contact
