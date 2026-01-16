@@ -37,8 +37,7 @@ I'm always eager to learn and grow. If you have suggestions on skills I should a
 
 ## Projects
 
-Here are some projects I've worked on:
-
+[(Thesis) Characterization of DNA Methylation Changes in Children with Type 1 Diabetes](https://github.com/rysummers/teddy-dnam-analysis) (R) <br />
 [Detection of Orbital Cellulitis Using a VGG16-Based Convolutional Neural Network](https://github.com/rysummers/OC-Detection) (Python) <br />
 [Independent Medical Review Analysis](https://github.com/rysummers/IMR_Analysis) (R) <br />
 [Simulation Study on Poisson Regression: Type I and Type II Error Rates](https://github.com/rysummers/Poisson_Simulation_Study) (R) <br />
